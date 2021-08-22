@@ -1,0 +1,3 @@
+type = theme
+repository = https://github.com/MisanthropicBit/nigiri.git
+description = A simplistic theme for the fish shell
